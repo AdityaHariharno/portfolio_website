@@ -1,2 +1,2 @@
-# portfolio_website
-My Portfolio Website using HTML, CSS, and JavaScript.
+# Portfolio_Website
+My Portfolio Website uses HTML, CSS, and JavaScript.
